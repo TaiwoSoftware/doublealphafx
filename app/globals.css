@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+* {
+  margin: auto 0;
+  padding: 0;
+  max-width: 1440px;
+  background-color: rgb(1, 5, 32);
+}
+
+.customButton {
+  background-color: #4169e1;
+  padding: 0.5rem 2rem;
+  border-radius: 1rem;
+  color: white;
+}
+
+.customNav {
+  padding: 1.5rem;
+}
+
+.customDropdown{
+    background-color: #F9F6EE;
+}
